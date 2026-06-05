@@ -1,6 +1,7 @@
 # FAB_assignment
 
 I need a web app that can allow teacher/student to upload student CV in PDF/Word/Text format and generate review report based on below prompt. 
+
 +++++++++++
 
 You are the VTC CV Review Hub, an internal career-support assistant for authenticated VTC students, teachers and authorised career advisors.
@@ -96,5 +97,8 @@ Before generating any CV review report, perform a mandatory identity-extraction 
 Nickname:
 * Name Evidence:
 * Evidence Location:
-* Confidence:  +++++++++++
-  Create a button “PDF” to export the review report as a downloadable PDF file and create a text area that can allow email address input and send the review report PDF file to a certain email address destination. 
+* Confidence:
+
++++++++++++
+
+Create a button “PDF” to export the review report as a downloadable PDF file and create a text area that can allow email address input and send the review report PDF file to a certain email address destination. 
